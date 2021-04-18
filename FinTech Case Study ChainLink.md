@@ -1,17 +1,10 @@
-# FinTech Case Study: ChainLink
+# FinTech Case Study: ChainLink Labs
+
+[![N|Solid](https://image.pitchbook.com/4CNaP6OQRsD1gGy3nWbPwHpKOLJ1606143213607_200x200)](https://nodesource.com/products/nsolid)
 
 ## Overview and Origin
 
-* Name of company
-
-* When was the company incorporated?
-
-* Who are the founders of the company?
-
-* How did the idea for the company (or project) come about?
-
-* How is the company funded? How much funding have they received?
-
+ChainLink Labs is a private held company, formally known as SmartContract. Founded on January 1, 2014, by Sergey Nazarov and Steve Ellis, in the Grand Cayman, Cayman Islands as SmartContract Chainlink Ltd. In 2017 on September 4th, the whitepaper "ChainLink" by Ellis and Nazarov including Ari Juels was released, presenting ChainLink, a decentralized oracle network providing a solution to solving problematic consensus protocols when verifying and executing smart contracts with external systems. The solution ChainLink offers is on-chain contrat data aggregation system and an efficient off-chain consensus mechanism, allowing contracts to gain eternal connectivity and all the while in a fully decentralized network. Accouridng to Pitchbook, Chainlink labs is funded by venture capital, where seed round was acquired in September 1, 2014 and early stage venture capital in July 18, 2017, and is cited by Crunchbase to have acquired $32M dollars during Initial Coini Offering of ChainLink.
 
 ## Business Activities:
 
@@ -50,3 +43,9 @@ What solution does this company offer that their competitors do not or cannot of
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+## References
+
+1) https://link.smartcontract.com/whitepaper
+2) https://pitchbook.com/profiles/company/126127-90#comparisons
+3) https://www.crunchbase.com/organization/chainlink
